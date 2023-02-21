@@ -1,0 +1,77 @@
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Form1.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Properties.Resources.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.FormInicio.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ventas.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.AcercaDe.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Historial.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Compra.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ticket.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\bin\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.AcercaDe.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Compra.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Form1.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.FormInicio.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Historial.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Inventario.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Properties.Resources.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ticket.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ventas.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Galeria.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Redes_Sociales.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Empleados.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csprojResolveAssemblyReference.cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.AcercaDe.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Compra.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Empleados.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Form1.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.FormInicio.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Galeria.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Historial.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Inventario.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Properties.Resources.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Redes_Sociales.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ticket.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ventas.resources
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csproj.GenerateResource.Cache
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.pdb
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy - copia\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+C:\Users\Omar\Documents\TIDSM\2° DSM\Programación Orientada a Objetos\Pruebas\Farmacia Bomy - copia\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+C:\Users\jony\Downloads\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+C:\Users\jony\Downloads\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+C:\Users\jony\Downloads\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+D:\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe.config
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.exe
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.pdb
+D:\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.exe
+D:\Farmacia Bomy\Farmacia Bomy\bin\Debug\Farmacia Bomy.pdb
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.AcercaDe.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Compra.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Empleados.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Form1.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.FormInicio.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Galeria.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Historial.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Properties.Resources.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Redes_Sociales.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ticket.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia_Bomy.Ventas.resources
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csproj.GenerateResource.Cache
+D:\Farmacia Bomy\Farmacia Bomy\obj\Debug\Farmacia Bomy.csprojAssemblyReference.cache
